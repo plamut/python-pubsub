@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
+## [1.3.0](https://www.github.com/googleapis/python-pubsub/compare/v1.2.0...v1.3.0) (2020-02-05)
+
+
+### Features
+
+* **pubsub:** ordering keys ([#26](https://www.github.com/googleapis/python-pubsub/issues/26)) ([cc3093a](https://www.github.com/googleapis/python-pubsub/commit/cc3093a2c0304259bc374bc2eeec9630e4a11a5e))
+
 ## [1.2.0](https://www.github.com/googleapis/python-pubsub/compare/v1.1.0...v1.2.0) (2020-02-05)
 
 
